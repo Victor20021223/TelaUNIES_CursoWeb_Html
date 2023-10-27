@@ -1,0 +1,29 @@
+body{
+   margin: 8px 300px;
+   background-color: aliceblue;
+}
+
+h3{
+    text-decoration: double;
+}
+
+h4{
+    margin-top: 50px;
+    text-align: center;
+}
+
+.menu{
+    margin-top: 15px;
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+
+.menu .opcao{
+    width: 75%;
+    text-align: end;
+}
+
+#Capa{
+    margin-top: 40px;
+}
